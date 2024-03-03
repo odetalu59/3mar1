@@ -1,0 +1,21 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://caramela.me/superjp.html/sitemap.xml
+Sitemap: https://caramela.me/gojekpot.html/sitemap.xml
+Sitemap: https://caramela.me/winstrike69.html/sitemap.xml
+Sitemap: https://caramela.me/jagoan86.html/sitemap.xml
+Sitemap: https://caramela.me/kaptenjackpot.html/sitemap.xml
+Sitemap: https://caramela.me/boosterjp.html/sitemap.xml
+Sitemap: https://caramela.me/kerajaanslot.html/sitemap.xml
+Sitemap: https://caramela.me/viral88.html/sitemap.xml
+Sitemap: https://caramela.me/clan4d.html/sitemap.xml
+Sitemap: https://caramela.me/dinamit4d.html/sitemap.xml
+Sitemap: https://caramela.me/viral4d.html/sitemap.xml
+Sitemap: https://caramela.me/gilajp.html/sitemap.xml
